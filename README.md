@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently at Bloomtech Institute Of Technology on track to becoming a Full Stack Web Developer. Stay tuned for my personal projects and portfolio coming soon!
+
 <!--
 **DenisseMedinaF/DenisseMedinaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
